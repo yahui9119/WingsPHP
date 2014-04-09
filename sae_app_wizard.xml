@@ -1,0 +1,4 @@
+<appwizard><introduction><name></name><author>我的个人站点</author><icon></icon><homepage></homepage><description><![CDATA[test]]></description></introduction><platform><services><service></service></services><appconfig><tpl><![CDATA[
+name: <<appname>>
+version: <<version>>
+]]></tpl></appconfig></platform><code><initScript>index.php</initScript></code></appwizard>
